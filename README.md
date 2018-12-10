@@ -1,2 +1,2 @@
 # hello-world
-python hello world
+first hello world
